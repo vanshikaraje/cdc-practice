@@ -7,3 +7,9 @@ Questions are 40cpp,41.cpp,42.cpp,43.cpp,44.cpp,45.cpp,46.cpp,47.cpp,48.cpp,49.c
 Questions are 54.cpp,55.cpp,56.cpp,57.cpp,58.cpp,59.cpp,60.cpp,61.cpp,62.cpp,63.cpp and 64.cpp .
 # 17-10-2025
 Questions are 65.cpp,67.cpp,68.cpp,69.cpp,70.cpp,71.cpp,72.cpp,73.cpp,74.cpp,75.cpp,76.cpp,77.cpp,78.cpp,79.cpp and 80.cpp
+# 18-10-25
+Questions are 81.cpp,82.cpp,83.cpp,84.cpp,85.cpp and 86.cpp
+# 19-10-25
+Questions are 87.cpp,88.cpp,89.cpp,90.cpp,91.cpp and 92.cpp.
+# 20-10-25 and 21-10-25
+Questions are 93.cpp,94.cpp,95.cpp,96.cpp,97.cpp,98.cpp,99.cpp, 100.cpp and 101.cpp
