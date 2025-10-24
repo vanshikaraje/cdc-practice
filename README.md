@@ -17,4 +17,7 @@ Questions are 93.cpp,94.cpp,95.cpp,96.cpp,97.cpp,98.cpp,99.cpp, 100.cpp and 101.
 Questions are 102.cpp,103.cpp,104.cpp,105.cpp,106.cpp,107.cpp and 108.cpp
 # 23-10-25
 Questions are 109.cpp,110.cpp,111.cpp,112.cpp,113.cpp,114.cpp and 115.cpp
+# 24-10-25
+Questions are 116.cpp,117.cpp,118.cpp,119.cpp and 120.cpp
+
 
