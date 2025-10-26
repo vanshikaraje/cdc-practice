@@ -21,3 +21,4 @@ Questions are 109.cpp,110.cpp,111.cpp,112.cpp,113.cpp,114.cpp and 115.cpp
 Questions are 116.cpp,117.cpp,118.cpp,119.cpp and 120.cpp
 # 25-10-25
 Questions are 121.cpp,122.cpp,123.cpp,124.cpp 125.cpp and 126.cpp
+# 26-10-25
