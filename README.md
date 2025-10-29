@@ -25,3 +25,5 @@ Questions are 121.cpp,122.cpp,123.cpp,124.cpp 125.cpp and 126.cpp
 Questions are 127.cpp,128.cpp,129.cpp,130.cpp,131.cpp,132.cpp,133.cpp,134.cpp,135.cpp and 136.cpp
 # 28-10-25
 Questions are 137.cpp,138.cpp,139.cpp,140.cpp,141.cpp,142.cpp and 143.cpp
+# 29-10-25
+Questions are 144.cpp
