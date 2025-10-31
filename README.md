@@ -29,3 +29,5 @@ Questions are 137.cpp,138.cpp,139.cpp,140.cpp,141.cpp,142.cpp and 143.cpp
 Questions are 144.cpp,145.cpp,146.cpp,147.cpp,148.cpp and 149.cpp
 # 30-10-25
 Questions are 150.cpp and 151.cpp
+# 31-10-25
+Questions are 152.cpp and 153.cpp
