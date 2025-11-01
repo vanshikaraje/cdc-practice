@@ -31,3 +31,5 @@ Questions are 144.cpp,145.cpp,146.cpp,147.cpp,148.cpp and 149.cpp
 Questions are 150.cpp and 151.cpp
 # 31-10-25
 Questions are 152.cpp and 153.cpp
+# 1-11-25
+Questions are 154.cpp
