@@ -41,3 +41,5 @@ Questions are 157.cpp
 Questions are 158.cpp and 159.cpp
 # 5-11-25
 Questions are 160.cpp
+# 6-11-25
+Questions are 161.cpp
